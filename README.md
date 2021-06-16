@@ -1,3 +1,2 @@
 # Asabeneh-30-Days-Of-JavaScript-Solved-Exercises
 
-This is the solved exercises of Asabenah 30 Days of JavaScript. I tired my best to solve it in efficient way. The examples can be done more better way maybe ...
